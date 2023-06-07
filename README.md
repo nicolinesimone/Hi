@@ -1,4 +1,4 @@
-# test
+# Hi
 <h1 align="center">Hi 👋, I'm Nicoline Simone</h1>
 <h3 align="center">A passionate student of engineering from Denmark</h3>
 
